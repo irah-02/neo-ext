@@ -46,4 +46,4 @@ This project is licensed under the MIT License.
 
 ## Author
 
-[Saurav Hathi](https://github.com/irah-terminal)
+[irah02](https://github.com/irah-terminal)
