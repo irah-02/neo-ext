@@ -1,7 +1,7 @@
 # <p align="center"> Examly Copy Paste Extension </p>
 
 <p align="center">
- <img src="https://github.com/sauravhathi/examly-copy-paste/blob/master/images/icon128.png" alt="logo" style="width: 150px">
+ <img src="https://github.com/irah-terminal/neo-ext/blob/main/images/icon128.png" alt="logo" style="width: 150px">
 </p>
 
 
@@ -36,16 +36,14 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 If you find this project useful and want to support its development, consider buying us a coffee! Your support is greatly appreciated.
 
-<img src="https://github.com/sauravhathi/otp-service/assets/61316762/021a6988-e823-4490-b8f2-ca6a0517ecc5" alt="support" style="width: 200px">
 
-Donate: `saurav.34@paytm`
+Donate: `svignesh37@fifederal`
 
-<a href="https://www.buymeacoffee.com/sauravhathi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/arial-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/sauravhathi/examly-copy-paste/blob/master/LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Author
 
-[Saurav Hathi](https://github.com/sauravhathi)
+[Saurav Hathi](https://github.com/irah-terminal)
